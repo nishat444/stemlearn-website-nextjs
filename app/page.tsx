@@ -446,7 +446,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "STEMLearn helped me turn my idea for a smart irrigation system into a patent. The mentorship was incredible, and now I&apos;m running my own company!"
+                STEMLearn helped me turn my idea for a smart irrigation system into a patent. The mentorship was incredible, and now I&apos;m running my own company!
               </p>
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
@@ -460,7 +460,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "The innovation accelerator program gave me the tools and confidence to launch my AI startup. I couldn&apos;t have done it without their support."
+                The innovation accelerator program gave me the tools and confidence to launch my AI startup. I couldn&apos;t have done it without their support.
               </p>
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
@@ -474,7 +474,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 italic">
-                "I love how STEMLearn makes complex topics fun and accessible. I&apos;ve already filed my first patent application for a medical device!"
+                I love how STEMLearn makes complex topics fun and accessible. I&apos;ve already filed my first patent application for a medical device!
               </p>
             </div>
           </div>

@@ -566,7 +566,7 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-bold text-white mb-4">STEMLearn</h3>
               <p className="text-gray-400 mb-4">
-                Empowering the next generation of STEM innovators and entrepreneurs.
+                Empowering the next generation of STEM learner and entrepreneurs.
               </p>
             </div>
             <div>
